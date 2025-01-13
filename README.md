@@ -2,3 +2,13 @@
 
 This is line four
 This is a file where we make merge conflicts and automatic merges.
+
+
+
+
+
+
+
+
+
+These things are very annoying, but school is school and we're forced to go
